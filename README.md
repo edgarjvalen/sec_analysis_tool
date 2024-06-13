@@ -1,4 +1,4 @@
-## VirusTotal Analysis Tool
+## VirusTotal API Analysis Tool
 
 ## Summary
 This project is a comprehensive tool designed to enhance cybersecurity by leveraging the power of VirusTotal's API. It provides functionality to analyze files, hashes, domains, and IP addresses for potential threats. Using Python libraries such as requests, psutil, hashlib, and prettytable, the tool offers a user-friendly interface to perform security checks and present the results in a well-organized, colored format.
